@@ -1,2 +1,0 @@
-# D-Money
-My page
